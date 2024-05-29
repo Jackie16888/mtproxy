@@ -8,7 +8,10 @@
 
 ```bash
 rm -rf /home/mtproxy && mkdir /home/mtproxy && cd /home/mtproxy
-curl -fsSL -o mtproxy.sh https://github.com/ellermister/mtproxy/raw/master/mtproxy.sh
+curl -fsSL -o mtproxy.sh https://github.com/Jackie16888/mtproxy/blob/master/mtproxy.sh
+
+
+
 bash mtproxy.sh
 ```
 
